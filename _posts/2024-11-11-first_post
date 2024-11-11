@@ -6,7 +6,6 @@ categories: [documentation]
 tag: [like]
 ---
 
-----
 > All sorts of actions and events are captured and recorded on a Windows operating system. 
 > This includes authentication attempts, networking connections, files that were accessed, and the behaviours of applications and services. 
 > This information is stored in the Windows event log using a tool called Sysmon.
