@@ -1,4 +1,9 @@
-
+---
+layout: post
+title: Velociraptor
+date: 11-11-2024
+categories: [documentation]
+---
 ----
 ==***This will simulate Velociraptor:***==
 - **Running as a server in => <span style="color:#9e46e2">Linux (Ubuntu)</span>** 
