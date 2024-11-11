@@ -5,6 +5,8 @@ date: 11-11-2024
 categories: [documentation]
 tag: [like]
 ---
+#Wazuh
+---
 
 > All sorts of actions and events are captured and recorded on a Windows operating system. 
 > This includes authentication attempts, networking connections, files that were accessed, and the behaviours of applications and services. 
