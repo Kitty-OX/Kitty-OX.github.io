@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Tshark part 1
@@ -6,7 +5,6 @@ date: 11-11-2024
 categories: [notes]
 tag: [like]
 ---
-
 ### Command-Line Wireshark Features I | Statistics
 
 >At the beginning of this module, we mentioned that TShark is considered a command line version of Wireshark. In addition to sharing the same display filters, TShark can accomplish several features of Wireshark explained below.
