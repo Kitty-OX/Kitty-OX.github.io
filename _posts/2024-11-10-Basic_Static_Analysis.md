@@ -1,4 +1,10 @@
-
+---
+layout: post
+title: Basic Static Analysis
+date: 11-11-2024
+categories: [documentation]
+tag: [like]
+---
 ---
 In the previous rooms of this module, we learned about the basics of computer architecture and Assembly language. While those topics are essential building blocks to learning malware analysis, we will start analyzing malware starting from this room.
 
