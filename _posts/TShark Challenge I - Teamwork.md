@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: Tshark Part 2
 date: 11-11-2024
 categories: [notes]
 ---
-
 **An alert has been triggered:** “The threat research team discovered a suspicious domain that could be a potential threat to the organisation.”
 
 The case was assigned to you. Inspect the provided **teamwork.pcap** located in `~/Desktop/exercise-files` and create artefacts for detection tooling.
